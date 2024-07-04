@@ -1,0 +1,17 @@
+{
+    "name": "FILY/gestion_d_un_atelier_de_couture",
+    "autoload": {
+        "psr-4": {
+            "GAC\\": "src/",
+            "GAC\\Controleurs\\":"src/controleurs/",
+            "GAC\\Core\\":"src/core/",
+            "GAC\\Model\\":"src/model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FILY"
+        }
+    ],
+    "require": {}
+}
